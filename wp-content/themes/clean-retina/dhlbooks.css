@@ -1,0 +1,9 @@
+.woo-commerce-page #container .upsells ul.products li.product, 
+	.woo-commerce-page #container .upsells ul.products li.product a .attachment-shop_catalog {max-width:120px;}
+
+.woocommerce .related ul li.product, .woocommerce .related ul.products li.product, 
+	.woocommerce .upsells.products ul li.product, .woocommerce .upsells.products ul.products li.product, 
+	.woocommerce-page .related ul li.product, .woocommerce-page .related ul.products li.product, 
+	.woocommerce-page .upsells.products ul li.product, .woocommerce-page .upsells.products ul.products li.product {max-width:150px;}
+
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {padding:5px; border:1px solid #000;}
